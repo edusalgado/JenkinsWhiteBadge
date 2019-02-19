@@ -9,7 +9,7 @@ public class MainTest {
 
         Main tester = new Main();
 
-        assertEquals( "Hello World!",tester.createMessage());
+        assertEquals( "Hello Word!",tester.createMessage());
     }
 
 
