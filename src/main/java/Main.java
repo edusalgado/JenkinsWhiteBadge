@@ -7,6 +7,6 @@ public class Main {
     }
 
     public static String createMessage(){
-        return "Hell World!";
+        return "Hello World!";
     }
 }
